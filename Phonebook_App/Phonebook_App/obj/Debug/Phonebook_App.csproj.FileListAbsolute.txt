@@ -1,0 +1,14 @@
+D:\ARCHIV\archiv2\uni\step\Phonebook_App\Phonebook_App\bin\Debug\Phonebook_App.exe.config
+D:\ARCHIV\archiv2\uni\step\Phonebook_App\Phonebook_App\bin\Debug\Phonebook_App.exe
+D:\ARCHIV\archiv2\uni\step\Phonebook_App\Phonebook_App\bin\Debug\Phonebook_App.pdb
+D:\ARCHIV\archiv2\uni\step\Phonebook_App\Phonebook_App\obj\Debug\Phonebook_App.csproj.AssemblyReference.cache
+D:\ARCHIV\archiv2\uni\step\Phonebook_App\Phonebook_App\obj\Debug\Phonebook_App.csproj.SuggestedBindingRedirects.cache
+D:\ARCHIV\archiv2\uni\step\Phonebook_App\Phonebook_App\obj\Debug\Phonebook_App.Phonebook.resources
+D:\ARCHIV\archiv2\uni\step\Phonebook_App\Phonebook_App\obj\Debug\Phonebook_App.Properties.Resources.resources
+D:\ARCHIV\archiv2\uni\step\Phonebook_App\Phonebook_App\obj\Debug\Phonebook_App.SeeContact.resources
+D:\ARCHIV\archiv2\uni\step\Phonebook_App\Phonebook_App\obj\Debug\Phonebook_App.csproj.GenerateResource.cache
+D:\ARCHIV\archiv2\uni\step\Phonebook_App\Phonebook_App\obj\Debug\Phonebook_App.csproj.CoreCompileInputs.cache
+D:\ARCHIV\archiv2\uni\step\Phonebook_App\Phonebook_App\obj\Debug\Phonebook_App.exe
+D:\ARCHIV\archiv2\uni\step\Phonebook_App\Phonebook_App\obj\Debug\Phonebook_App.pdb
+D:\ARCHIV\archiv2\uni\step\Phonebook_App\Phonebook_App\obj\Debug\Phonebook_App.AddContact.resources
+D:\ARCHIV\archiv2\uni\step\Phonebook_App\Phonebook_App\obj\Debug\Phonebook_App.EditInfo.resources
